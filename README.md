@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maroth
+
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Python and OpenCV
 - 💞️ I’m looking to collaborate on image processing projects
